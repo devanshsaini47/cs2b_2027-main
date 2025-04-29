@@ -30,7 +30,8 @@ const Footer = () => {
       </ul>
       <p class="copyright">
         copyright &copy; Backroads travel tours company
-        <span id="date"></span> all rights reserved
+        <span id="date"></span> all rights reserved <br />
+        Developed and maintained by : Devansh Saini 2300320120085
       </p>
     </footer>
   );
